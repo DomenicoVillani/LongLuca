@@ -1,0 +1,194 @@
+{
+  "recensioni": [
+    {
+      "nome": "Hoppipolla",
+      "tipo": {
+        "name": "Bar"
+      },
+      "data": "28/09/2021",
+      "voto": 8.25,
+      "note": "",
+      "id": 1
+    },
+    {
+      "nome": "Handmade",
+      "tipo": {
+        "name": "Bar"
+      },
+      "data": "01/01/2020",
+      "voto": 8,
+      "note": "",
+      "id": 2
+    },
+    {
+      "nome": "Handmade",
+      "tipo": {
+        "name": "Bar"
+      },
+      "data": "13/02/2024",
+      "voto": 6,
+      "note": "",
+      "id": 3
+    },
+    {
+      "nome": "Non c'era",
+      "tipo": {
+        "name": "Ristorante"
+      },
+      "data": "18/12/2023",
+      "voto": 8,
+      "note": "",
+      "id": 4
+    },
+    {
+      "nome": "Nostrano",
+      "tipo": {
+        "name": "Pub"
+      },
+      "data": "01/01/2020",
+      "voto": 1,
+      "note": "The frizzante con un pò di alcool",
+      "id": 5
+    },
+    {
+      "nome": "Nostrano",
+      "tipo": {
+        "name": "Pub"
+      },
+      "data": "07/12/2022",
+      "voto": 1,
+      "note": "è palesemente thè SCAM",
+      "id": 6
+    },
+    {
+      "nome": "Nuit d'or",
+      "tipo": {
+        "name": "Bar"
+      },
+      "data": "01/01/2020",
+      "voto": 6.5,
+      "note": "Barista bravo",
+      "id": 7
+    },
+    {
+      "nome": "Mcloud",
+      "tipo": {
+        "name": "Pub"
+      },
+      "data": "01/01/2020",
+      "voto": 5,
+      "note": "Troppi coloranti, lingua arancio",
+      "id": 8
+    },
+    {
+      "nome": "Flora",
+      "tipo": {
+        "name": "Bar"
+      },
+      "data": "01/01/2020",
+      "voto": 0,
+      "note": "NC NON LO FANNO",
+      "id": 9
+    },
+    {
+      "nome": "Fermento",
+      "tipo": {
+        "name": "Pub"
+      },
+      "data": "01/01/2020",
+      "voto": 4,
+      "note": "",
+      "id": 10
+    },
+    {
+      "nome": "Caffè 54",
+      "tipo": {
+        "name": "Bar"
+      },
+      "data": "01/01/2020",
+      "voto": 5.5,
+      "note": "",
+      "id": 11
+    },
+    {
+      "nome": "Sualzo",
+      "tipo": {
+        "name": "Discoteca"
+      },
+      "data": "01/01/2020",
+      "voto": 2,
+      "note": "",
+      "id": 12
+    },
+    {
+      "nome": "LevelX55",
+      "tipo": {
+        "name": "Bar"
+      },
+      "data": "01/01/2020",
+      "voto": 5,
+      "note": "",
+      "id": 13
+    },
+    {
+      "nome": "Matrioska",
+      "tipo": {
+        "name": "Discoteca"
+      },
+      "data": "01/01/2020",
+      "voto": 3,
+      "note": "Limone rancido",
+      "id": 14
+    },
+    {
+      "nome": "Dylan Dog",
+      "tipo": {
+        "name": "Bar"
+      },
+      "data": "01/01/2020",
+      "voto": 9.25,
+      "note": "",
+      "id": 15
+    },
+    {
+      "nome": "Javabar Alghero",
+      "tipo": {
+        "name": "Bar"
+      },
+      "data": "01/01/2020",
+      "voto": 3,
+      "note": "Sa di porto/zolfo",
+      "id": 16
+    },
+    {
+      "nome": "La luna nel pozzo",
+      "tipo": {
+        "name": "Ristorante"
+      },
+      "data": "12/08/2023",
+      "voto": 6,
+      "note": "Troppo limone",
+      "id": 17
+    },
+    {
+      "nome": "LassaGì",
+      "tipo": {
+        "name": "Bar"
+      },
+      "data": "01/01/2020",
+      "voto": 8.5,
+      "note": "",
+      "id": 18
+    },
+    {
+      "nome": "Lido cristallo",
+      "tipo": {
+        "name": "Lido"
+      },
+      "data": "18/08/2024",
+      "voto": 7.92,
+      "note": "",
+      "id": 19
+    }
+  ]
+}
